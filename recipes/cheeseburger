@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odin Recipes</title>
+</head>
+<body>
+    <h1>Cheeseburger Recipe</h1>
+    <h2><a href="../index.html">Home</a></h2>
+    <img src="../images/cheeseburger.jpeg" width="400">
+    <h4>As you may or may not have noticed, I am (oh well,
+         I guess most people are) a big fan of burgers.
+         This weekend I made a really good one.</h4>
+    <h3>Ingredients:</h3>
+    <ul>
+        <li>x2 100 grams beef patties</li>
+        <li>sliced cheese</li>
+        <li>pickled cucumbers and onion</li>
+        <li>toasted brioche buns</li>
+    </ul>
+    <h3>Steps:</h3>
+    <ol>
+        <li>Add a generous sprinkle of salt on both sides of the patties.</li>
+        <li>Grill or fry the burger patties until prefered doneness, I went for medium.</li>
+        <li>Add cheese and smear mayo on a toasted bun.</li>
+        <li>Add onion and pickles.</li>
+    </ol>
+   
+</body>
+</html>
